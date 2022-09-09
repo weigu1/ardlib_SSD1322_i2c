@@ -1,6 +1,6 @@
 # Arduino library for SSD1322 (parallel mode) over I2C
 
-![ardlib_SSD1322_i2c](png/ardlib_SSD1322_i2c_450.png "ardlib_SSD1322_i2c")
+![ardlib_SSD1322_i2c](png/oled_NHD_2_7_12864_450.png "ardlib_SSD1322_i2c")
 
 ## Some infos
 
